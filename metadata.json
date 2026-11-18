@@ -1,0 +1,6 @@
+{
+  "name": "SenseRehab",
+  "description": "面向专业康复机构的多感官 VR 智能辅助训练系统，支持患者训练端、康复师管理端与机构管理员协同流程及 AI 辅助阶段性分析报告。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
